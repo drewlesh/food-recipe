@@ -52,7 +52,7 @@ function GetRandomRecipe() {
   const [error, setError] = useState(null);
   const [buttonClicked, setButtonClicked] = useState(false);
 
-  const API_KEY = process.env.REACT_APP_API_KEY;
+  const API_KEY = "eaa59e2a613e46a784ba5beba4cc3f8a";
 
   //https://react.dev/reference/react/useMemo
   let url = useMemo(() => {
