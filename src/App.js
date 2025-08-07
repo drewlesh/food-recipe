@@ -1,5 +1,5 @@
 /*
-  Run node App.js in the terminal to start server.(through its folder in the directory)
+  Run npm start in the terminal to start server.(through folder in the directory)
 */
 
 //import "/public/images/filter.png";
