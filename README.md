@@ -1,4 +1,4 @@
-# food-recipe
+# recipe-app
 University of Oregon - Computer Information Technology 282
 Final Project
 Drew Lesh
